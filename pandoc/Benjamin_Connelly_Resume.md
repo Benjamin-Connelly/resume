@@ -13,7 +13,7 @@ http://www.linkedin.com/in/benjaminconnelly
 
 # Summary
 
-Linux and Cloud Operations Engineer with a strong performance background with deployments, automation, monitoring / metrics, configuration management, troubleshooting and maintenance.
+Operations Engineer with a strong background in Linux deployments, automation, monitoring / metrics, configuration management, troubleshooting and maintenance.
 
 # Work Experience
 
