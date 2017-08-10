@@ -1,0 +1,150 @@
+\documentclass[]{article}
+\usepackage{lmodern}
+\usepackage{amssymb,amsmath}
+\usepackage{ifxetex,ifluatex}
+\usepackage{fixltx2e} % provides \textsubscript
+\ifnum 0\ifxetex 1\fi\ifluatex 1\fi=0 % if pdftex
+  \usepackage[T1]{fontenc}
+  \usepackage[utf8]{inputenc}
+\else % if luatex or xelatex
+  \ifxetex
+    \usepackage{mathspec}
+  \else
+    \usepackage{fontspec}
+  \fi
+  \defaultfontfeatures{Ligatures=TeX,Scale=MatchLowercase}
+\fi
+% use upquote if available, for straight quotes in verbatim environments
+\IfFileExists{upquote.sty}{\usepackage{upquote}}{}
+% use microtype if available
+\IfFileExists{microtype.sty}{%
+\usepackage[]{microtype}
+\UseMicrotypeSet[protrusion]{basicmath} % disable protrusion for tt fonts
+}{}
+\PassOptionsToPackage{hyphens}{url} % url is loaded by hyperref
+\usepackage[unicode=true]{hyperref}
+\hypersetup{
+            pdfborder={0 0 0},
+            breaklinks=true}
+\urlstyle{same}  % don't use monospace font for urls
+\usepackage[margin=1in]{geometry}
+\IfFileExists{parskip.sty}{%
+\usepackage{parskip}
+}{% else
+\setlength{\parindent}{0pt}
+\setlength{\parskip}{6pt plus 2pt minus 1pt}
+}
+\setlength{\emergencystretch}{3em}  % prevent overfull lines
+\providecommand{\tightlist}{%
+  \setlength{\itemsep}{0pt}\setlength{\parskip}{0pt}}
+\setcounter{secnumdepth}{0}
+% Redefines (sub)paragraphs to behave more like sections
+\ifx\paragraph\undefined\else
+\let\oldparagraph\paragraph
+\renewcommand{\paragraph}[1]{\oldparagraph{#1}\mbox{}}
+\fi
+\ifx\subparagraph\undefined\else
+\let\oldsubparagraph\subparagraph
+\renewcommand{\subparagraph}[1]{\oldsubparagraph{#1}\mbox{}}
+\fi
+
+% set default figure placement to htbp
+\makeatletter
+\def\fps@figure{htbp}
+\makeatother
+
+
+\date{}
+
+\begin{document}
+
+\section{Benjamin Connelly}\label{benjamin-connelly}
+
+415-917-0763\\
+New Orleans, LA 70115\\
+benjamin.t.connelly@gmail.com\\
+http://www.linkedin.com/in/benjaminconnelly
+
+\section{Summary}\label{summary}
+
+Operations Engineer with a strong background in Linux deployments,
+automation, monitoring / metrics, configuration management,
+troubleshooting and maintenance.
+
+\section{Work Experience}\label{work-experience}
+
+\subsection{iSeatz (New Orleans, LA)}\label{iseatz-new-orleans-la}
+
+\textbf{Cloud Operations Engineer} (May 2016 - Present)
+
+\begin{itemize}
+\tightlist
+\item
+  Remote administration of multiple Production, Staging, and QA
+  environments hosted at AWS.
+\item
+  Provisioning and Configuration Management with Salt Stack.
+\item
+  Proactive monitoring and alerting of all systems and micro-services
+  with Datadog, Sumo, and PagerDuty.
+\item
+  Automation of manual tasks for all departments with BASH, Python, and
+  PhantomJS/CasperJS.
+\item
+  Managing and reporting on cost of AWS infrastructure with CloudHealth.
+\item
+  Management of AWS Reserved Instance pools. \textbf{+\$250,000 savings
+  this year}
+\item
+  Orchestration of vendor selection, contract negotiation and/or renewal
+  processes, ongoing cost management, deployment, and administration of
+  all third party vendors.
+\end{itemize}
+
+\subsection{The Zoo Studios (Oakland,
+California)}\label{the-zoo-studios-oakland-california}
+
+\textbf{Systems Administrator} (May 2012 - November 2016)
+
+\begin{itemize}
+\tightlist
+\item
+  Disaster recovery, deployment, and configuration management for over
+  100 Amazon AWS accounts based on Vagrant and Ansible.
+\item
+  Developed automated deployment and self healing monitoring of the
+  building's Linux servers used for key entry system, security alarms,
+  environment controls, lighting controls, and phone system based on
+  Bash scripts and Ansible.
+\item
+  OS X server and workstation administration in a variety of
+  configurations for recording artists, mixing engineers, and business
+  personal.
+\end{itemize}
+
+\subsection{Ebay / StubHub (San Francisco,
+California)}\label{ebay-stubhub-san-francisco-california}
+
+\textbf{Senior Linux Systems Administrator} (2004 - 2012)
+
+\begin{itemize}
+\tightlist
+\item
+  Design, deployment, and administration of production environment for
+  www.stubhub.com.
+\item
+  Design, deployment, and administration of 30+ development environments
+  across multiple data centers.
+\item
+  Manage F5 BigIP load balancers for development environments.
+\item
+  Configuration of Apache, Jboss, JMS, ColdfusionMX, ActiveMQ, Solr,
+  Bind, Sendmail, and Oracle g.
+\item
+  24/7 on call for production environment, www.stubhub.com.
+\item
+  Monitor, respond to, and administer network equipment, traffic, and
+  connections in the core network.
+\end{itemize}
+
+\end{document}

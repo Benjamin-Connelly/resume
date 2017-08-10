@@ -2,8 +2,6 @@
 geometry: margin=1in
 output: pdf_document
 ---
-\pagenumbering{gobble}
-
 # Benjamin Connelly
 
 415-917-0763  
