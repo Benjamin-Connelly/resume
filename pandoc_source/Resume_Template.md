@@ -15,8 +15,11 @@ Operations Engineer with a strong background in Linux deployments, automation, m
 
 # Work Experience
 
+## nClouds (Remote Employee)
+**Senior Operations Engineer** (Feburary 2017 - Present)
+
 ## iSeatz (New Orleans, LA)
-**Cloud Operations Engineer** (May 2016 - Present)
+**Cloud Operations Engineer** (May 2016 - August 2017)
 
 - Remote administration of multiple Production, Staging, and QA environments hosted at AWS.
 - Provisioning and Configuration Management with Salt Stack. 
