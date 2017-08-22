@@ -16,7 +16,7 @@ Operations Engineer with a strong background in Linux deployments, automation, m
 # Work Experience
 
 ## nClouds (Remote Employee)
-**Senior Operations Engineer** (Feburary 2017 - Present)
+**DevOps Consultant** (Feburary 2017 - Present)
 
 ## iSeatz (New Orleans, LA)
 **Cloud Operations Engineer** (May 2016 - August 2017)

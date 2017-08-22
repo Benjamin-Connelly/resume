@@ -19,7 +19,7 @@ Work Experience
 nClouds (Remote Employee)
 -------------------------
 
-**Senior Operations Engineer** (Feburary 2017 - Present)
+**DevOps Consultant** (Feburary 2017 - Present)
 
 iSeatz (New Orleans, LA)
 ------------------------
