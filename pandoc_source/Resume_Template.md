@@ -31,7 +31,7 @@ Operations Engineer with a strong background in Linux deployments, automation, m
 
 ## The Zoo Studios (Oakland, California)
 
-**Systems Administrator** (May 2012 - November 2016)
+**Systems Administrator** (May 2012 - November 2015)
 
 - Disaster recovery, deployment, and configuration management for over 100 Amazon AWS accounts based on Vagrant and Ansible.
 - Developed automated deployment and self healing monitoring of the building’s Linux servers used for key entry system, security alarms, environment controls, lighting controls, and phone system based on Bash scripts and Ansible.

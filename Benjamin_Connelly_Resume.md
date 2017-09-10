@@ -44,7 +44,7 @@ iSeatz (New Orleans, LA)
 The Zoo Studios (Oakland, California)
 -------------------------------------
 
-**Systems Administrator** (May 2012 - November 2016)
+**Systems Administrator** (May 2012 - November 2015)
 
 -   Disaster recovery, deployment, and configuration management for over
     100 Amazon AWS accounts based on Vagrant and Ansible.
