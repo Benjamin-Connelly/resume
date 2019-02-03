@@ -2,7 +2,7 @@ Benjamin Connelly
 =================
 
 415-917-0763\
-New Orleans, LA 70115\
+Los Angeles, CA 90026\
 benjamin.t.connelly@gmail.com\
 http://www.linkedin.com/in/benjaminconnelly
 
@@ -20,6 +20,9 @@ nClouds (Remote Employee)
 -------------------------
 
 **DevOps Consultant** (Feburary 2017 - Present)
+
+-   Implementing DevOps solutions using cloud-based infrastructure
+    automation tools - AWS, Docker, and Chef
 
 iSeatz (New Orleans, LA)
 ------------------------
@@ -49,7 +52,7 @@ The Zoo Studios (Oakland, California)
 -   Disaster recovery, deployment, and configuration management for over
     100 Amazon AWS accounts based on Vagrant and Ansible.
 -   Developed automated deployment and self healing monitoring of the
-    building’s Linux servers used for key entry system, security alarms,
+    building's Linux servers used for key entry system, security alarms,
     environment controls, lighting controls, and phone system based on
     Bash scripts and Ansible.
 -   OS X server and workstation administration in a variety of
@@ -71,4 +74,3 @@ Ebay / StubHub (San Francisco, California)
 -   24/7 on call for production environment, www.stubhub.com.
 -   Monitor, respond to, and administer network equipment, traffic, and
     connections in the core network.
-

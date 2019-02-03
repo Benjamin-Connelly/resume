@@ -5,7 +5,7 @@ output: pdf_document
 # Benjamin Connelly
 
 415-917-0763  
-New Orleans, LA 70115  
+Los Angeles, CA 90026  
 benjamin.t.connelly@gmail.com  
 http://www.linkedin.com/in/benjaminconnelly
 
@@ -17,6 +17,8 @@ Operations Engineer with a strong background in Linux deployments, automation, m
 
 ## nClouds (Remote Employee)
 **DevOps Consultant** (Feburary 2017 - Present)
+
+- Implementing DevOps solutions using cloud-based infrastructure automation tools - AWS, Docker, and Chef
 
 ## iSeatz (New Orleans, LA)
 **Cloud Operations Engineer** (May 2016 - August 2017)
