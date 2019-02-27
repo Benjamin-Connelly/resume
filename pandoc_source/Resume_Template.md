@@ -18,7 +18,9 @@ Operations Engineer with a strong background in Linux deployments, automation, m
 ## nClouds (Remote Employee)
 **DevOps Consultant** (Feburary 2017 - Present)
 
-- Implementing DevOps solutions using cloud-based infrastructure automation tools - AWS, Docker, and Chef
+- Implement cloud deployments using the AWS stack
+- Implement automation stacks such as Chef (and Opsworks), Ansible, and SALT. 
+- Defining complete Cloudformation stacks VPCs, Subnets, RDS, and EC2. 
 
 ## iSeatz (New Orleans, LA)
 **Cloud Operations Engineer** (May 2016 - August 2017)
